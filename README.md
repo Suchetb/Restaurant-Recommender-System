@@ -1,1 +1,2 @@
 # Restaurant-Recommender-System
+In this project, first coffee brands in the world and then these brands in Turkey were examined. The data in the dataset, which you can find in the repository, was first organized using data cleaning algorithms. These cleaned data were then extracted graphically using data visualization algorithms. Then, similar restaurants were listed in the prediction part.
